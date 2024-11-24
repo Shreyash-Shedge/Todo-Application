@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Testing
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Caching and logs
+.cache/
+*.log
+*.lock
+
+# IDE settings (optional)
+.vscode/
+.idea/
+.DS_Store

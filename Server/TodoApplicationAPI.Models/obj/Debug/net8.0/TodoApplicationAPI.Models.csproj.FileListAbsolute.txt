@@ -1,0 +1,14 @@
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\bin\Debug\net8.0\TodoApplicationAPI.Models.deps.json
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\bin\Debug\net8.0\TodoApplicationAPI.Models.runtimeconfig.json
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\bin\Debug\net8.0\TodoApplicationAPI.Models.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\bin\Debug\net8.0\TodoApplicationAPI.Models.pdb
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\TodoApplicationAPI.Models.csproj.AssemblyReference.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\TodoApplicationAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\TodoApplicationAPI.Models.AssemblyInfoInputs.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\TodoApplicationAPI.Models.AssemblyInfo.cs
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\TodoApplicationAPI.Models.csproj.CoreCompileInputs.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\TodoApplicationAPI.Models.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\refint\TodoApplicationAPI.Models.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\TodoApplicationAPI.Models.pdb
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\TodoApplicationAPI.Models.genruntimeconfig.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Models\obj\Debug\net8.0\ref\TodoApplicationAPI.Models.dll

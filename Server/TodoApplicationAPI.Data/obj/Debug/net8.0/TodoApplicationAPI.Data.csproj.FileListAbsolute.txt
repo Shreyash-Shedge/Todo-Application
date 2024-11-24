@@ -1,0 +1,17 @@
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\bin\Debug\net8.0\TodoApplicationAPI.Data.deps.json
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\bin\Debug\net8.0\TodoApplicationAPI.Data.runtimeconfig.json
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\bin\Debug\net8.0\TodoApplicationAPI.Data.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\bin\Debug\net8.0\TodoApplicationAPI.Data.pdb
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\bin\Debug\net8.0\TodoApplicationAPI.Models.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\bin\Debug\net8.0\TodoApplicationAPI.Models.pdb
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoApplicationAPI.Data.csproj.AssemblyReference.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoApplicationAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoApplicationAPI.Data.AssemblyInfoInputs.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoApplicationAPI.Data.AssemblyInfo.cs
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoApplicationAPI.Data.csproj.CoreCompileInputs.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoAppl.886F2E75.Up2Date
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoApplicationAPI.Data.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\refint\TodoApplicationAPI.Data.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoApplicationAPI.Data.pdb
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\TodoApplicationAPI.Data.genruntimeconfig.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Data\obj\Debug\net8.0\ref\TodoApplicationAPI.Data.dll

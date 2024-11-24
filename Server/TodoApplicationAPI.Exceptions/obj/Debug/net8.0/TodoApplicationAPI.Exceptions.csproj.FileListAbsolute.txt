@@ -1,0 +1,14 @@
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\bin\Debug\net8.0\TodoApplicationAPI.Exceptions.deps.json
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\bin\Debug\net8.0\TodoApplicationAPI.Exceptions.runtimeconfig.json
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\bin\Debug\net8.0\TodoApplicationAPI.Exceptions.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\bin\Debug\net8.0\TodoApplicationAPI.Exceptions.pdb
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\TodoApplicationAPI.Exceptions.csproj.AssemblyReference.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\TodoApplicationAPI.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\TodoApplicationAPI.Exceptions.AssemblyInfoInputs.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\TodoApplicationAPI.Exceptions.AssemblyInfo.cs
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\TodoApplicationAPI.Exceptions.csproj.CoreCompileInputs.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\TodoApplicationAPI.Exceptions.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\refint\TodoApplicationAPI.Exceptions.dll
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\TodoApplicationAPI.Exceptions.pdb
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\TodoApplicationAPI.Exceptions.genruntimeconfig.cache
+C:\Decisions\Assessment\TodoApplication\TodoApplicationAPI.Exceptions\obj\Debug\net8.0\ref\TodoApplicationAPI.Exceptions.dll

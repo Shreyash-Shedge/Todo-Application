@@ -1,0 +1,68 @@
+/* src/todoDashboard.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* General Dashboard Styles */
+.container {
+  @apply mx-auto max-w-5xl py-6 px-4; /* Increased max width for table and layout */
+}
+
+.heading {
+  @apply text-3xl font-bold text-center mb-6;
+}
+
+/* Controls Section */
+.controls-container {
+  @apply flex flex-col md:flex-row md:justify-between items-center mb-6 gap-4;
+}
+
+.search-input {
+  @apply w-full md:w-1/3 border border-gray-300 rounded-md px-4 py-2 focus:outline-none focus:ring focus:ring-blue-500;
+}
+
+.category-buttons {
+  @apply flex flex-row gap-2; /* Buttons side by side with smaller gap */
+}
+
+.category-button {
+  @apply px-4 py-2 rounded-md bg-gray-200 hover:bg-gray-300;
+}
+
+.category-button.active {
+  @apply bg-blue-500 text-white;
+}
+
+/* Todo Table */
+.table-container {
+  @apply overflow-x-auto;
+}
+
+.todo-table {
+  @apply w-full border-collapse border border-gray-300 rounded-lg;
+}
+
+.todo-table th {
+  @apply bg-gray-100 px-6 py-3 text-left font-semibold text-lg; /* Larger cells */
+}
+
+.todo-table td {
+  @apply px-6 py-3 border border-gray-300 text-base;
+}
+
+.todo-row:hover {
+  @apply bg-gray-50;
+}
+
+/* Action Buttons */
+.action-button {
+  @apply px-3 py-1 rounded-md text-white;
+}
+
+.edit-button {
+  @apply bg-blue-500 hover:bg-blue-600;
+}
+
+.delete-button {
+  @apply bg-red-500 hover:bg-red-600;
+}
