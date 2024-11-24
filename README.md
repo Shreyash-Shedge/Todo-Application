@@ -102,7 +102,7 @@ Before running this project, ensure that you have the following software install
    Start the React development server by running:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    The frontend will start on `http://localhost:5173`. It should automatically open in your browser, but if it doesn't, you can manually visit `http://localhost:5173` in your web browser.
